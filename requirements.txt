@@ -1,0 +1,12 @@
+torch 
+torchvision 
+tqdm 
+tensorboard 
+scipy==1.9.3 
+pandas==1.4.3 
+seaborn 
+scikit-learn 
+pnumpy 
+matplotlib
+vedo
+nibabel
